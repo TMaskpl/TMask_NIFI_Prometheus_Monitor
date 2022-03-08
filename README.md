@@ -24,6 +24,6 @@ JVM:
 
 
 
-Flowefiles:
+Flowfiles:
 
 ![dashboard2](https://user-images.githubusercontent.com/75216446/157235766-d8fb4e06-dcad-4649-a58d-b646f27aaedf.png)
