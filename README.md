@@ -1,4 +1,4 @@
-# TMask_NIFI_Prometheus_Monitor
+# TMask_NIFI_Prometheus_Monitor - Open Source
 Monitoring przepływu NIFI za pomocą Prometheus i Grafana
 
 =====================
